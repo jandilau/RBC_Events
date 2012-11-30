@@ -6,7 +6,7 @@
     <name>RBC Events</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        RBC events list and registration.
     </description>
 
     <author href="http://phonegap.com" email="support@rbc.org">
